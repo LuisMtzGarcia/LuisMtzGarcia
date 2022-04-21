@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Luis!
-I'm currently pursuing a degree of engineering in Computer Systems at Ciudad Madero Institute of Technology (ITCM) 
-- 👀 I’m interested in web-development.
-- 🌱 I’m currently learning Django and loving it!
+Currently studying (and practicing!) to be a Full-Stack Web Developer.
+- 👀 I’m interested in web-development using a variety of tech stacks.
+- 🌱 I’m currently going through The Odin Project and loving it!
 - 📫 Reach me at ing.luismtzgarcia@gmail.com
 
 ## &nbsp;&nbsp;Some technologies I use:
