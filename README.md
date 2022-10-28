@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Luis!
-Currently studying (and practicing!) to be a Full-Stack Web Developer.
-- 👀 I’m interested in web-development using a variety of tech stacks.
-- 🌱 I’m currently going through The Odin Project and loving it!
+Currently working as a Full-Stack Web Developer.
 - 📫 Reach me at ing.luismtzgarcia@gmail.com
 
 ## &nbsp;&nbsp;Some technologies I use:
