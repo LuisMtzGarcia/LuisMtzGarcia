@@ -2,7 +2,7 @@
 Currently working as a Full-Stack Web Developer.
 - 📫 Reach me at ing.luismtzgarcia@gmail.com
 
-## &nbsp;&nbsp;Some technologies I use:
+## &nbsp;&nbsp;Some technologies I've used profesionally:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;&nbsp;
