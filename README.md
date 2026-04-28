@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Luis!
-Currently working as a Software Engineer @ Digible.
+Currently working as a Software Engineer II @ Digible.
 - 📫 Reach me at ing.luismtzgarcia@gmail.com
 
 ## &nbsp;&nbsp;Some technologies I've used professionally:
